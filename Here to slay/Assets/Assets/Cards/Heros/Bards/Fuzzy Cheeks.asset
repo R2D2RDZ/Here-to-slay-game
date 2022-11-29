@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec7a5df3c13e6c47ab03fc9a52a390a, type: 3}
+  m_Name: Fuzzy Cheeks
+  m_EditorClassIdentifier: 
+  name: Fuzzy Cheeks
+  type: 1
+  description: 
+  image: {fileID: -121250438, guid: 12191606eb7612543ad4d60c56b0172d, type: 3}
+  clase: 0
+  cost: 8
+  IsGreater: 1
+  actions: []
